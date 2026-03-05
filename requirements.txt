@@ -1,0 +1,24 @@
+
+
+google-genai
+streamlit
+watchdog
+python-dotenv
+
+numpy
+scikit-learn
+
+kagglehub
+datasets
+
+
+ipython
+jupyter
+
+fpdf2
+
+soundfile
+pandas
+plotly
+
+#streamlit run streamlit_app.py
